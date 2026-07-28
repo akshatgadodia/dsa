@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/akshatgadodia/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/akshatgadodia/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatgadodia/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/akshatgadodia/dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatgadodia/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -117,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/akshatgadodia/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/akshatgadodia/dsa/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatgadodia/dsa/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
