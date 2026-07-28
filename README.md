@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akshatgadodia/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatgadodia/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/akshatgadodia/dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/akshatgadodia/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/akshatgadodia/dsa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akshatgadodia/dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/akshatgadodia/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshatgadodia/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akshatgadodia/dsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/akshatgadodia/dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshatgadodia/dsa/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akshatgadodia/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
