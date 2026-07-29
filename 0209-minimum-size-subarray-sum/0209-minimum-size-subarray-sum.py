@@ -7,18 +7,16 @@ class Solution:
 
         i, j = 0, 0
         current_window = 0
-        add = True
+        
         while j < len(nums):
-            current_window += nums[j] if add else 0
+            current_window += nums[j]
 
-            if current_window >= target:
-                result = min(j - i + 1, result)
+            while current_window >= target:
+                result = min(result, j - i + 1)
                 current_window -= nums[i]
-                add = False
                 i += 1
-            else:
-                j += 1
-                add = True
+
+            j += 1
         
         return result
         
