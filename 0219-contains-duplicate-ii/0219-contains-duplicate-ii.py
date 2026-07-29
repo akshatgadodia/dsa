@@ -6,6 +6,6 @@ class Solution:
                 return True
 
             numbers[num] = idx
-        
+
         return False
         
