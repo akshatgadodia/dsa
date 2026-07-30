@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akshatgadodia/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/akshatgadodia/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshatgadodia/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/akshatgadodia/dsa/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akshatgadodia/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akshatgadodia/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatgadodia/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/akshatgadodia/dsa/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatgadodia/dsa/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/akshatgadodia/dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatgadodia/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/akshatgadodia/dsa/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/akshatgadodia/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatgadodia/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatgadodia/dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/akshatgadodia/dsa/tree/master/0567-permutation-in-string) |
 ## Counting
 |  |
 | ------- |
