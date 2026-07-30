@@ -13,8 +13,6 @@ class Solution:
         if original_string == window_string:
             return True
 
-        print(dict(original_string), dict(window_string))
-
         for idx, char_to_add in enumerate(s2[window_length:]):
             char_to_remove = s2[idx]
 
@@ -24,8 +22,6 @@ class Solution:
                 window_string[char_to_remove] -= 1
             
             window_string[char_to_add] += 1
-
-            print(dict(original_string), dict(window_string))
 
             if original_string == window_string:
                 return True
