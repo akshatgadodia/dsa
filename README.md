@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshatgadodia/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatgadodia/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/akshatgadodia/dsa/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/akshatgadodia/dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akshatgadodia/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshatgadodia/dsa/tree/master/0219-contains-duplicate-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatgadodia/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/akshatgadodia/dsa/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatgadodia/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akshatgadodia/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatgadodia/dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatgadodia/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/akshatgadodia/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/akshatgadodia/dsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akshatgadodia/dsa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akshatgadodia/dsa/tree/master/0383-ransom-note) |
