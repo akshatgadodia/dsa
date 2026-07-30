@@ -10,7 +10,7 @@ class Solution:
         for char in s2[:window_length]:
             window_string[char] += 1
 
-        if dict(original_string) == dict(window_string):
+        if original_string == window_string:
             return True
 
         print(dict(original_string), dict(window_string))
@@ -27,7 +27,7 @@ class Solution:
 
             print(dict(original_string), dict(window_string))
 
-            if dict(original_string) == dict(window_string):
+            if original_string == window_string:
                 return True
 
         return False
