@@ -3,42 +3,26 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
-        if head is None:
-            return head
+        before = ListNode(0)
+        after = ListNode(0)
 
-        current = ListNode()
-        current.next = head
+        before_tail = before
+        after_tail = after
 
-        while current:
-            if current.next and current.next.val >= x:
-                break
-            current = current.next
-
-        if current is None:
-            return head
-
-        start = current
-        current = current.next
-
-        result = ListNode()
-        result.next = head
-        if head.val >= x :
-            result = start
-        
-        while current and current.next:
-            if current.next.val < x:
-                element = current.next
-                current.next = current.next.next
-
-                element.next = start.next
-                start.next = element
-                start = start.next
+        while head:
+            if head.val < x:
+                before_tail.next = head
+                before_tail = before_tail.next
             else:
-                current = current.next
-        
-            print("current", current, "start", start)
+                after_tail.next = head
+                after_tail = after_tail.next
 
+            head = head.next
 
-        return result.next
+        after_tail.next = None
+        before_tail.next = after.next
+
+        return before.next
