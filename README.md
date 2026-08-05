@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/akshatgadodia/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/akshatgadodia/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatgadodia/dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0503-next-greater-element-ii](https://github.com/akshatgadodia/dsa/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/akshatgadodia/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshatgadodia/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatgadodia/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshatgadodia/dsa/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/akshatgadodia/dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/akshatgadodia/dsa/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/akshatgadodia/dsa/tree/master/0503-next-greater-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshatgadodia/dsa/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/akshatgadodia/dsa/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
