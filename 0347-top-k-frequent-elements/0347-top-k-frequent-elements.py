@@ -11,11 +11,7 @@ class Solution:
             if len(heap) > k:
                 heapq.heappop(heap)
         
-        result = []
-        for (val, key) in heap:
-            result.append(key)
-        
-        return result
+        return [key for value, key in heap]
 
 
         
