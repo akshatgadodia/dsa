@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/akshatgadodia/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/akshatgadodia/dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/akshatgadodia/dsa/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/akshatgadodia/dsa/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/akshatgadodia/dsa/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatgadodia/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akshatgadodia/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatgadodia/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/akshatgadodia/dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/akshatgadodia/dsa/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
