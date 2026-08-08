@@ -4,12 +4,16 @@ class Solution:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
         heap = []
 
-        for row in matrix:
-            for col in row:
-                heapq.heappush(heap, -1 * col)
+        for row in range(len(matrix)):
+            heapq.heappush(heap, (matrix[row][0], row, 0))
 
-                if len(heap) > k:
-                    heapq.heappop(heap)
-        
-        return -1 * heap[0]
-        
+        for _ in range(k):
+            value, row, col = heapq.heappop(heap)
+
+            if col + 1 < len(matrix[row]):
+                heapq.heappush(
+                    heap,
+                    (matrix[row][col + 1], row, col + 1)
+                )
+
+        return value
