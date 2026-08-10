@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshatgadodia/dsa/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshatgadodia/dsa/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatgadodia/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/akshatgadodia/dsa/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshatgadodia/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -267,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/akshatgadodia/dsa/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
