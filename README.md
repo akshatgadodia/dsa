@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/akshatgadodia/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/akshatgadodia/dsa/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/akshatgadodia/dsa/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/akshatgadodia/dsa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akshatgadodia/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatgadodia/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshatgadodia/dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatgadodia/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/akshatgadodia/dsa/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/akshatgadodia/dsa/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/akshatgadodia/dsa/tree/master/0509-fibonacci-number) |
 ## Design
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akshatgadodia/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshatgadodia/dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/akshatgadodia/dsa/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
