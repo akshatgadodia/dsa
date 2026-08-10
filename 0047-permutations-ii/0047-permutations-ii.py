@@ -2,7 +2,7 @@ class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         result, current = [], []
         used = [False] * len(nums)
-        
+         
         def backtrack():
             if len(current) == len(nums):
                 result.append(current[:])
