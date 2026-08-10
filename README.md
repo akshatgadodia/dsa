@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshatgadodia/dsa/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/akshatgadodia/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshatgadodia/dsa/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/akshatgadodia/dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshatgadodia/dsa/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akshatgadodia/dsa/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/akshatgadodia/dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatgadodia/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatgadodia/dsa/tree/master/0217-contains-duplicate) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/akshatgadodia/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshatgadodia/dsa/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/akshatgadodia/dsa/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/akshatgadodia/dsa/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
