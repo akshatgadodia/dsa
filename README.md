@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshatgadodia/dsa/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshatgadodia/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/akshatgadodia/dsa/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshatgadodia/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/akshatgadodia/dsa/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/akshatgadodia/dsa/tree/master/0503-next-greater-element-ii) |
 ## Merge Sort
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akshatgadodia/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshatgadodia/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshatgadodia/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshatgadodia/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akshatgadodia/dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshatgadodia/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshatgadodia/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshatgadodia/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/akshatgadodia/dsa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/akshatgadodia/dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/akshatgadodia/dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshatgadodia/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
