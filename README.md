@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/akshatgadodia/dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/akshatgadodia/dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/akshatgadodia/dsa/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/akshatgadodia/dsa/tree/master/0752-open-the-lock) |
 | [0875-koko-eating-bananas](https://github.com/akshatgadodia/dsa/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/akshatgadodia/dsa/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/akshatgadodia/dsa/tree/master/0994-rotting-oranges) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akshatgadodia/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akshatgadodia/dsa/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akshatgadodia/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0752-open-the-lock](https://github.com/akshatgadodia/dsa/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/akshatgadodia/dsa/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akshatgadodia/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatgadodia/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akshatgadodia/dsa/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/akshatgadodia/dsa/tree/master/0752-open-the-lock) |
 ## Counting
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/akshatgadodia/dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/akshatgadodia/dsa/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/akshatgadodia/dsa/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/akshatgadodia/dsa/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -408,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/akshatgadodia/dsa/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/akshatgadodia/dsa/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
