@@ -18,12 +18,12 @@ class Solution:
             if graph_node is None:
                 return None
 
+            if graph_node in nodes:
+                return nodes[graph_node]
+
             value = graph_node.val
-            if value in nodes:
-                return nodes[value]
-            
             current_node = Node(val=value)
-            nodes[value] = current_node
+            nodes[graph_node] = current_node
 
             neighbours = []
             for neighbour in graph_node.neighbors:
