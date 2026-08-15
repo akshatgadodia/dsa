@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatgadodia/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/akshatgadodia/dsa/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/akshatgadodia/dsa/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/akshatgadodia/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshatgadodia/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akshatgadodia/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatgadodia/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/akshatgadodia/dsa/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/akshatgadodia/dsa/tree/master/0647-palindromic-substrings) |
 | [0752-open-the-lock](https://github.com/akshatgadodia/dsa/tree/master/0752-open-the-lock) |
 ## Counting
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/akshatgadodia/dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/akshatgadodia/dsa/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/akshatgadodia/dsa/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/akshatgadodia/dsa/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/akshatgadodia/dsa/tree/master/0746-min-cost-climbing-stairs) |
 ## Design
 |  |
