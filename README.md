@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/akshatgadodia/dsa/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/akshatgadodia/dsa/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshatgadodia/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/akshatgadodia/dsa/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akshatgadodia/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/akshatgadodia/dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/akshatgadodia/dsa/tree/master/0695-max-area-of-island) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshatgadodia/dsa/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/akshatgadodia/dsa/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akshatgadodia/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Dynamic Programming
 |  |
