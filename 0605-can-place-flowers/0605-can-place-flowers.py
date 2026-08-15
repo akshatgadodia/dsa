@@ -1,23 +1,20 @@
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
-        for idx, value in enumerate(flowerbed):
-            if n <= 0:
-                break
+        for i in range(len(flowerbed)):
+            if n == 0:
+                return True
 
-            if value == 1:
+            if flowerbed[i] == 1:
                 continue
-            
-            can_place_flower = True
-            if idx > 0 and flowerbed[idx - 1] == 1:
-                can_place_flower = False
-            if idx < len(flowerbed) -1 and flowerbed[idx + 1] == 1:
-                can_place_flower = False
 
-            print()
+            left_empty = i == 0 or flowerbed[i - 1] == 0
+            right_empty = (
+                i == len(flowerbed) - 1
+                or flowerbed[i + 1] == 0
+            )
 
-            if can_place_flower:
+            if left_empty and right_empty:
+                flowerbed[i] = 1
                 n -= 1
-                flowerbed[idx] = 1
-            
+
         return n == 0
-        
