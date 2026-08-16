@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akshatgadodia/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshatgadodia/dsa/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/akshatgadodia/dsa/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/akshatgadodia/dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshatgadodia/dsa/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akshatgadodia/dsa/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akshatgadodia/dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/akshatgadodia/dsa/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/akshatgadodia/dsa/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/akshatgadodia/dsa/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/akshatgadodia/dsa/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/akshatgadodia/dsa/tree/master/0223-rectangle-area) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akshatgadodia/dsa/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/akshatgadodia/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akshatgadodia/dsa/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshatgadodia/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
