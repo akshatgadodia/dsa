@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshatgadodia/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshatgadodia/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/akshatgadodia/dsa/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/akshatgadodia/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/akshatgadodia/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/akshatgadodia/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshatgadodia/dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akshatgadodia/dsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshatgadodia/dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshatgadodia/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akshatgadodia/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatgadodia/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/akshatgadodia/dsa/tree/master/0383-ransom-note) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akshatgadodia/dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/akshatgadodia/dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akshatgadodia/dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshatgadodia/dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akshatgadodia/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatgadodia/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshatgadodia/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshatgadodia/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshatgadodia/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/akshatgadodia/dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akshatgadodia/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshatgadodia/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/akshatgadodia/dsa/tree/master/0704-binary-search) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/akshatgadodia/dsa/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/akshatgadodia/dsa/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/akshatgadodia/dsa/tree/master/0223-rectangle-area) |
+| [0268-missing-number](https://github.com/akshatgadodia/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/akshatgadodia/dsa/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -380,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/akshatgadodia/dsa/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/akshatgadodia/dsa/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
