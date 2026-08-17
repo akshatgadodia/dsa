@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/akshatgadodia/dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/akshatgadodia/dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/akshatgadodia/dsa/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akshatgadodia/dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatgadodia/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshatgadodia/dsa/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/akshatgadodia/dsa/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/akshatgadodia/dsa/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/akshatgadodia/dsa/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/akshatgadodia/dsa/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/akshatgadodia/dsa/tree/master/0242-valid-anagram) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/akshatgadodia/dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/akshatgadodia/dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/akshatgadodia/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akshatgadodia/dsa/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshatgadodia/dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/akshatgadodia/dsa/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/akshatgadodia/dsa/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/akshatgadodia/dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/akshatgadodia/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/akshatgadodia/dsa/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/akshatgadodia/dsa/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshatgadodia/dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/akshatgadodia/dsa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshatgadodia/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
