@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/akshatgadodia/dsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshatgadodia/dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/akshatgadodia/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akshatgadodia/dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akshatgadodia/dsa/tree/master/0078-subsets) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/akshatgadodia/dsa/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/akshatgadodia/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/akshatgadodia/dsa/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/akshatgadodia/dsa/tree/master/0130-surrounded-regions) |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akshatgadodia/dsa/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akshatgadodia/dsa/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
