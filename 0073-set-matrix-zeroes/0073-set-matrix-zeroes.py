@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        zero_rows, zero_cols = [], []
+        zero_rows, zero_cols = set(), set()
 
         if not matrix:
             return zeros
@@ -13,8 +13,8 @@ class Solution:
         for i in range(rows):
             for j in range(cols):
                 if matrix[i][j] == 0:
-                    zero_rows.append(i)
-                    zero_cols.append(j)
+                    zero_rows.add(i)
+                    zero_cols.add(j)
         
         if not zero_rows:
             return matrix
