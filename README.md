@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/akshatgadodia/dsa/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/akshatgadodia/dsa/tree/master/0647-palindromic-substrings) |
 | [0752-open-the-lock](https://github.com/akshatgadodia/dsa/tree/master/0752-open-the-lock) |
+| [0796-rotate-string](https://github.com/akshatgadodia/dsa/tree/master/0796-rotate-string) |
 ## Counting
 |  |
 | ------- |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/akshatgadodia/dsa/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/akshatgadodia/dsa/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
