@@ -9,7 +9,6 @@ class Solution:
         for [x, y] in points:
             distance = (x ** 2) + (y ** 2)
             distance = math.sqrt(distance)
-            print(x, y, distance)
 
             heapq.heappush(heap, (-distance, x, y))
             if len(heap) > k:
