@@ -3,20 +3,18 @@ class Solution:
         if n == 1:
             return "1"
 
-        result = self.countAndSay(n-1)
+        result = self.countAndSay(n - 1)
 
-        char, count = 0, 0
         rle = ""
-        
-        for idx in range(len(result)):
-            if idx > 0 and result[idx] != result[idx - 1]:
-                rle += f"{count}{char}"
-                count = 0
-            char = result[idx]
-            count += 1
-        
-        rle += f"{count}{char}"
-        
-        return rle
+        count = 1
 
-        
+        for i in range(1, len(result)):
+            if result[i] == result[i - 1]:
+                count += 1
+            else:
+                rle += str(count) + result[i - 1]
+                count = 1
+
+        rle += str(count) + result[-1]
+
+        return rle
