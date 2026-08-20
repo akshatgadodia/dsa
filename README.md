@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshatgadodia/dsa/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/akshatgadodia/dsa/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshatgadodia/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/akshatgadodia/dsa/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/akshatgadodia/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshatgadodia/dsa/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/akshatgadodia/dsa/tree/master/0047-permutations-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatgadodia/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/akshatgadodia/dsa/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshatgadodia/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/akshatgadodia/dsa/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/akshatgadodia/dsa/tree/master/0076-minimum-window-substring) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/akshatgadodia/dsa/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/akshatgadodia/dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akshatgadodia/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0073-set-matrix-zeroes) |
