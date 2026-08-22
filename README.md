@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshatgadodia/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/akshatgadodia/dsa/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/akshatgadodia/dsa/tree/master/0973-k-closest-points-to-origin) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshatgadodia/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
