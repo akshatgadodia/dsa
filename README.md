@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshatgadodia/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/akshatgadodia/dsa/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/akshatgadodia/dsa/tree/master/0973-k-closest-points-to-origin) |
+| [1927-sum-game](https://github.com/akshatgadodia/dsa/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshatgadodia/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/akshatgadodia/dsa/tree/master/0647-palindromic-substrings) |
 | [0752-open-the-lock](https://github.com/akshatgadodia/dsa/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/akshatgadodia/dsa/tree/master/0796-rotate-string) |
+| [1927-sum-game](https://github.com/akshatgadodia/dsa/tree/master/1927-sum-game) |
 ## Counting
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akshatgadodia/dsa/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/akshatgadodia/dsa/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akshatgadodia/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1927-sum-game](https://github.com/akshatgadodia/dsa/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -573,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/akshatgadodia/dsa/tree/master/0973-k-closest-points-to-origin) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/akshatgadodia/dsa/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
