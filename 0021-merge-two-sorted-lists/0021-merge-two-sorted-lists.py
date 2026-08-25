@@ -6,15 +6,23 @@
 class Solution:
     def mergeTwoLists(self, list1, list2):
         dummy = ListNode()
-        tail = dummy
+        current = dummy
+
         while list1 and list2:
             if list1.val < list2.val:
-                tail.next = list1        # attach list1's node
-                list1 = list1.next       # advance list1
+                current.next = list1
+                current = current.next
+                list1 = list1.next
             else:
-                tail.next = list2
+                current.next = list2
+                current = current.next
                 list2 = list2.next
-            tail = tail.next             # advance tail to the node just attached
-        # one list is now empty; attach whatever remains of the other
-        tail.next = list1 if list1 else list2
+        
+        if list1:
+            current.next = list1
+        if list2:
+            current.next = list2
+        
         return dummy.next
+            
+        
