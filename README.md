@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/akshatgadodia/dsa/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshatgadodia/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/akshatgadodia/dsa/tree/master/1046-last-stone-weight) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/akshatgadodia/dsa/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatgadodia/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akshatgadodia/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0752-open-the-lock](https://github.com/akshatgadodia/dsa/tree/master/0752-open-the-lock) |
 | [0904-fruit-into-baskets](https://github.com/akshatgadodia/dsa/tree/master/0904-fruit-into-baskets) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/akshatgadodia/dsa/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akshatgadodia/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akshatgadodia/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatgadodia/dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/akshatgadodia/dsa/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
