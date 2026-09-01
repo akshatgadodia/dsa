@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/akshatgadodia/dsa/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/akshatgadodia/dsa/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshatgadodia/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/akshatgadodia/dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/akshatgadodia/dsa/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshatgadodia/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/akshatgadodia/dsa/tree/master/1046-last-stone-weight) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshatgadodia/dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/akshatgadodia/dsa/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/akshatgadodia/dsa/tree/master/0973-k-closest-points-to-origin) |
+| [0989-add-to-array-form-of-integer](https://github.com/akshatgadodia/dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1927-sum-game](https://github.com/akshatgadodia/dsa/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshatgadodia/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
