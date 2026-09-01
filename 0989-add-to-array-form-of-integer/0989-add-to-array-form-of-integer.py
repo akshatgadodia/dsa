@@ -1,21 +1,14 @@
 class Solution:
     def addToArrayForm(self, num: List[int], k: int) -> List[int]:
-        n = len(num)
-        result = [0] * n
+        i = len(num) - 1
+        result = []
 
-        carry = 0
-        for i in range(n-1, -1, -1):
-            value = carry + num[i]
+        while i >= 0 or k > 0:
+            if i >= 0:
+                k += num[i]
+                i -= 1
 
-            if i == n - 1:
-                value += k
-            
-            carry = value // 10
-            result[i] = value % 10
-        
-        while carry > 0:
-            result.insert(0, carry % 10)
-            carry = carry // 10
+            result.append(k % 10)
+            k //= 10
 
-        return result
-        
+        return result[::-1]
