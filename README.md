@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/akshatgadodia/dsa/tree/master/1046-last-stone-weight) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/akshatgadodia/dsa/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1480-running-sum-of-1d-array](https://github.com/akshatgadodia/dsa/tree/master/1480-running-sum-of-1d-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akshatgadodia/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshatgadodia/dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/akshatgadodia/dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/akshatgadodia/dsa/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akshatgadodia/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1927-sum-game](https://github.com/akshatgadodia/dsa/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akshatgadodia/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
