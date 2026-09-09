@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/akshatgadodia/dsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1927-sum-game](https://github.com/akshatgadodia/dsa/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshatgadodia/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/akshatgadodia/dsa/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
