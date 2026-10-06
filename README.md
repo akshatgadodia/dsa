@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akshatgadodia/dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akshatgadodia/dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/akshatgadodia/dsa/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/akshatgadodia/dsa/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/akshatgadodia/dsa/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/akshatgadodia/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akshatgadodia/dsa/tree/master/0075-sort-colors) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshatgadodia/dsa/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/akshatgadodia/dsa/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/akshatgadodia/dsa/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/akshatgadodia/dsa/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akshatgadodia/dsa/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akshatgadodia/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/akshatgadodia/dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/akshatgadodia/dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/akshatgadodia/dsa/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/akshatgadodia/dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/akshatgadodia/dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatgadodia/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
